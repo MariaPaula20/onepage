@@ -79,6 +79,7 @@ main #computadores .fila .card{
 main #computadores .fila .card img{
     width: 100%;
     border-radius: 20px 20px 0 0;
+    height: 50%;
 }
 
 main #computadores .fila .card p{
